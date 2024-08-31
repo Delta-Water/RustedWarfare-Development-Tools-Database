@@ -21,8 +21,14 @@ main分支中存放了内置工具作为示例
     "version": "0.0.1",
 }
 ```
+
+`name`：源名称
+`simpleIntroduction`：简介
+`detailedIntroduction`：详情
+`version`：版本号
+
 - batchGenerateTool
-  - information.js
+  - information.json
   ```
   {
       "name": "批量宾语生成工具",
@@ -30,3 +36,4 @@ main分支中存放了内置工具作为示例
   }
   ```
   - main.js
+  代码略，请自行前往file部分查看
