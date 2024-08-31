@@ -12,7 +12,8 @@
 
 - information.json
 - batchGenerateTool
-+ information.json
+  - information.js
+  - main.js
 
 ## 温馨提示
 
