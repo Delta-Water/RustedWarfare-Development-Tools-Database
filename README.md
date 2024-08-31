@@ -40,7 +40,7 @@
 
 ## 安装和使用
 
-安装和使用说明将根据具体工具的不同而有所差异。请参考每个工具的文档来了解详细步骤。
+正在开发中，敬请期待
 
 ## 贡献指南
 
@@ -50,7 +50,6 @@
 2. 创建您的特性分支 (`git checkout -b feature/your-feature`).
 3. 提交您的改动 (`git commit -m 'Add some feature'`).
 4. 推送到分支 (`git push origin feature/your-feature`).
-5. 创建新的Pull Request。
 
 ## 许可证
 
