@@ -10,7 +10,8 @@
 
 **文件结构**
 
-- xxx.js
+- information.json
+- batchGenerateTool
 
 ## 温馨提示
 
