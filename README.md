@@ -39,9 +39,11 @@
 **请按照以下步骤创建新的源。**
 
 1. Fork本仓库；
-2. 添加源的information和各个工具的information；
-3. 在根目录添加README.md作为源的说明文档
-4. 在各个工具中添加README.md作为各个工具的说明和教程文档
+2. 添加源的`information.json`；
+3. 创建各个工具的文件夹；
+4. 添加各个工具的`information.json`和`main.js`；
+3. 在根目录添加`README.md`作为源的说明文档
+4. 在各个工具中添加`README.md`作为各个工具的说明和教程文档
 
 _大功告成_
 
