@@ -14,6 +14,12 @@ main分支中存放了内置工具作为示例
 
 - information.json
 ```
+{
+    "name": "内置",
+    "simpleIntroduction": "内置工具源",
+    "detailedIntroduction": "一些基础的工具",
+    "version": "0.0.1",
+}
 ```
 - batchGenerateTool
   - information.js
