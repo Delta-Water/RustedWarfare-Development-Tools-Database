@@ -12,14 +12,14 @@
 
 ### 文件结构
 
-1. `information.json`源的信息
+1. `information.json`：源的信息
 
    - `name`: 源名称
    - `simpleIntroduction`: 简介说明
    - `detailedIntroduction`: 详细介绍
    - `version`: 源版本号
 
-2. `batchGenerateTool`文件夹（源中的每一个工具都应该有一个自己的文件夹）
+2. `batchGenerateTool`：批量触发生成工具文件夹（源中的每一个工具都应该有一个自己的文件夹）
 
    - `information.json`: 工具的详细信息
    - `main.js`: 工具的主要功能代码（具体代码请查看文件）
