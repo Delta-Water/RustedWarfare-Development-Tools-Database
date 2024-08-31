@@ -4,17 +4,19 @@
 
 [助手的仓库地址](https://github.com/Delta-Water/RustedWarfare-Development-Tools)
 
-## main分支
+## 如何创建自己的工具
 
-该分支中存放了内置工具作为示例。
+main分支中存放了内置工具作为示例
 
-**文件结构**
+**请务必按照示例的格式创建新的分支**
+
+### 文件结构
 
 - information.json
+```
+```
 - batchGenerateTool
- - information.js
- - main.js
-
-## 温馨提示
-
-**请务必按照示例的格式创建新的分支，以求信息能够被助手正确获取**
+  - information.js
+  ```
+  ```
+  - main.js
