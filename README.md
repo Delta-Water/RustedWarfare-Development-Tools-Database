@@ -8,18 +8,18 @@
 
 ## 如何创建自己的工具
 
-在`main`分支中，我们存放了内置工具作为示例。请按照以下步骤创建新的工具。
+在`main`分支中，我们存放了内置源作为示例。请按照以下步骤创建新的源。
 
 ### 文件结构
 
-1. `information.json`
+1. `information.json`源的信息
 
-   - `name`: 工具名称
+   - `name`: 源名称
    - `simpleIntroduction`: 简介说明
    - `detailedIntroduction`: 详细介绍
-   - `version`: 工具版本号
+   - `version`: 源版本号
 
-2. `batchGenerateTool`
+2. `batchGenerateTool`文件夹（源中的每一个工具都应该有一个自己的文件夹）
 
    - `information.json`: 工具的详细信息
    - `main.js`: 工具的主要功能代码（具体代码请查看文件）
