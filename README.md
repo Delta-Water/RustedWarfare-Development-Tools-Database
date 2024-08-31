@@ -23,8 +23,11 @@ main分支中存放了内置工具作为示例
 ```
 
 `name`：源名称
+
 `simpleIntroduction`：简介
+
 `detailedIntroduction`：详情
+
 `version`：版本号
 
 - batchGenerateTool
