@@ -12,7 +12,7 @@ main分支中存放了内置工具作为示例
 
 ### 文件结构
 
-#### information.json
+1. information.json
 ```
 {
     "name": "内置",
@@ -30,7 +30,7 @@ main分支中存放了内置工具作为示例
 
 `version`：版本号
 
-#### batchGenerateTool
+2. batchGenerateTool
 
 - information.json
 
