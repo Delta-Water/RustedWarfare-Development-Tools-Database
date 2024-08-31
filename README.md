@@ -28,7 +28,7 @@
 
 以下是一个`information.json`的示例：
 
- json
+```
 {
     "name": "批量宾语生成工具",
     "simpleIntroduction": "生成指定宾语的工具",
@@ -36,7 +36,7 @@
     "version": "0.0.1",
     "developers": ["KEND", "DeltaWater"]
 }
- 
+```
 
 ## 安装和使用
 
