@@ -12,6 +12,7 @@
 
 - information.json
 - batchGenerateTool
++ information.json
 
 ## 温馨提示
 
