@@ -31,12 +31,16 @@ main分支中存放了内置工具作为示例
 `version`：版本号
 
 #### batchGenerateTool
-  - information.json
-  ```
-  {
-      "name": "批量宾语生成工具",
-      "detailedIntroduction": "能够通过特定语法生成指定宾语的工具\n开发者：\nKEND：ini导入的逻辑\nDeltaWater：UI和字符串生成的逻辑"
-  }
-  ```
-  - main.js
-  代码略，请自行前往file部分查看
+
+- information.json
+
+```
+{
+    "name": "批量宾语生成工具",
+    "detailedIntroduction": "能够通过特定语法生成指定宾语的工具\n开发者：\nKEND：ini导入的逻辑\nDeltaWater：UI和字符串生成的逻辑"
+}
+```
+
+- main.js
+
+代码略，请自行查看文件
