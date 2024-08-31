@@ -1,6 +1,6 @@
 # RustedWarfare-Development-Tools-Database
 
-用于存放开发的工具的仓库，助手将从这个仓库及其分支获取工具本体及其相关信息。
+用于存放开发的工具的仓库，[助手](https://github.com/Delta-Water/RustedWarfare-Development-Tools)将从这个仓库及其分支获取工具本体及其相关信息。
 
 ## 项目概述
 
