@@ -2,6 +2,10 @@
 
 用于存放开发的工具的仓库，[助手](https://github.com/Delta-Water/RustedWarfare-Development-Tools)将从这个仓库及其分支获取工具本体及其相关信息。
 
+**注意：**
+
+该仓库暂时处于停用状态，实际以开发者更新为准。
+
 ## 项目概述
 
 本项目旨在为Rusted Warfare游戏提供开发工具的代码存储和管理。这些工具旨在简化游戏开发和内容创建过程。
@@ -64,3 +68,7 @@ _大功告成_
 ## 联系我们
 
 如有任何问题或建议，请通过3627371741@qq.com与我们联系。
+
+## 友情链接
+
+[rwmapeditor-exgcdwu](https://github.com/exgcdwu/Rusted-Warfare-map-editor-for-city-occupation-play-)
